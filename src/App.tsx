@@ -1,5 +1,4 @@
 import { memo, useCallback, useState } from "react";
-import "./App.css";
 import CustomAutocomplete from "./components/LocationAutoCompleteField";
 import {
   GoogleMap,
